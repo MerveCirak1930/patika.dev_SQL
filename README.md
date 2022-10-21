@@ -1,2 +1,1 @@
-# This repo was created for the sql course on the Patika.dev platform.
-[Click here to access to course](www.patika.com)
+## This repo was created for the sql course on the [www.patika.com](www.patika.com) web page.
